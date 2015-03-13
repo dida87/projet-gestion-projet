@@ -1,0 +1,1 @@
+Le projet consiste à réserver des chambres d'hotel.
